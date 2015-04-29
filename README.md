@@ -1,5 +1,4 @@
 # 5lab
-http://kvodo.ru/dijkstra-algorithm.html
 #include "stdafx.h"
 #include <iostream>
 using namespace std;
